@@ -1,6 +1,11 @@
 # python-tweetdeleterapp
 tweet deleter app 
 
+Hi! My name is Wolfrank and I used Claude Ai to make this tool.
+
+The Good: You get twitter dev api access and tokens to get started!
+The Bad : Twitter has strict rate limits!
+The Ugly:  Still under development!  Please report any bugs or contact me at guzmanwolfrank.com !! 
 
 
 # Twitter Tweet Deleter 🐦🗑️
